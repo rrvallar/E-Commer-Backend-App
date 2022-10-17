@@ -1,5 +1,5 @@
 # E-Commerce-Backend-App
-# This app contains code for the E-Ommerce backend application. Below is a clip demonstrating the application as well as a screen shot of the requirements.
+# This app contains code for the E-Commerce backend application. Below is a clip demonstrating the application as well as a screen shot of the requirements.
 #Link
 https://clipchamp.com/watch/hMarzjcTIxn
 
